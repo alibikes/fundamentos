@@ -1,0 +1,2 @@
+# fundamentos
+especificaciones requicitos
